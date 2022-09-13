@@ -1,4 +1,20 @@
-li{
-	color: red;
+html {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 10px;
 
 }
+
+h1{
+	font-size: 2rem;
+}
+ol{
+	font-size: 1.5rem;
+}
+
+li {
+	line-height: 1.5;
+
+}
+
+
+
